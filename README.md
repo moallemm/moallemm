@@ -69,6 +69,8 @@ AI / ML / DL
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
 </p>
 
 Data Visualization
@@ -76,6 +78,7 @@ Data Visualization
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
 </p>
 
 DevOps & Tools
@@ -183,5 +186,6 @@ DevOps & Tools
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7EE787,100:58A6FF&height=100&section=footer" />
 
 "Code is like humor. When you have to explain it, it's bad." — Cory House
+
 Thanks for stopping by! ⭐
 </div>
