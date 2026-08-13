@@ -142,10 +142,6 @@ DevOps & Tools
 📊 GitHub Analytics
 
 <div align="center">
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=moallemm&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-
-
 <!-- Stats Grid -->
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=moallemm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moallemm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
@@ -153,14 +149,11 @@ DevOps & Tools
 
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=moallemm&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moallemm&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
 <!-- Top Languages with Percentages -->
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=moallemm&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</div>
+
+
 
 
 🌐 Let's Connect
