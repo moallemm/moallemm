@@ -142,10 +142,6 @@ DevOps & Tools
 📊 GitHub Analytics
 
 <div align="center">
-<!-- Stats Grid -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=moallemm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=moallemm&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
