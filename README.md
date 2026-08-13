@@ -149,8 +149,6 @@ DevOps & Tools
 
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=moallemm&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-<!-- Top Languages with Percentages -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=moallemm&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </div>
 
 
