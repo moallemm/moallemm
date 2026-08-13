@@ -18,10 +18,15 @@
 I'm a Software Developer and Data Scientist from Lebanon with professional experience in full‑stack development, AI, and machine learning. I build scalable applications, optimize systems, and deliver data‑driven solutions.
 
 🎓 B.Sc. in Computer Science (Data Science)
+
 💻 Skilled in modern web technologies (React, Vite, Tailwind, Flask, PostgreSQL, MySQL)
+
 🤖 Experienced in computer vision and deep learning (YOLO, MobileNet, MiDaS, EasyOCR, PyTorch, TensorFlow)
+
 📊 Strong background in data analytics and visualization (Pandas, NumPy, Seaborn, Matplotlib, Tableau)
+
 ☁️ Expanding expertise in cloud technologies and CI/CD pipelines
+
 🚀 Passionate about solving real‑world problems with AI and software engineering
 
 
