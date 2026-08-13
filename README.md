@@ -159,6 +159,9 @@ DevOps & Tools
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=moallemm&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
+<!-- Top Languages with Percentages -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=moallemm&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+
 
 🌐 Let's Connect
 
