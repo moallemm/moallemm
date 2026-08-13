@@ -1,6 +1,7 @@
 <div align="center">
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7EE787&height=200&section=header&text=Mohamad%20Moallem&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=55&descSize=18" />
+
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Turning+Data+Into+Impact;Full-Stack+%2B+AI+%2B+Computer+Vision;Always+Learning%2C+Always+Building" />
 
@@ -10,37 +11,56 @@
 <a href="mailto:mohamadmoallem79@gmail.com">
 <img src="https://komarev.com/ghpvc/?username=moallemm&color=58A6FF&style=flat-square" alt="Profile Views" />
 </div>
+
+
 👨‍💻 About Me
 "Bridging the gap between raw data and real-world impact."
-I'm Mohamad Moallem, a Software Developer and Data Scientist based in Lebanon 🇱🇧. I specialize in building scalable full-stack applications and intelligent AI systems that solve real-world problems.
+I'm a Software Developer and Data Scientist from Lebanon with professional experience in full‑stack development, AI, and machine learning. I build scalable applications, optimize systems, and deliver data‑driven solutions.
+
 🎓 B.Sc. in Computer Science (Data Science)
-🔭 Currently building AI-powered assistive technologies (Safe Walk AI)
-🌱 Deepening my expertise in Cloud Architecture, MLOps & CI/CD
-💡 Passionate about Computer Vision, Deep Learning, and Data-Driven Decision Making
-⚡ Fun fact: I believe the best code is the one that helps someone walk safer, decide smarter, or live better.
+💻 Skilled in modern web technologies (React, Vite, Tailwind, Flask, PostgreSQL, MySQL)
+🤖 Experienced in computer vision and deep learning (YOLO, MobileNet, MiDaS, EasyOCR, PyTorch, TensorFlow)
+📊 Strong background in data analytics and visualization (Pandas, NumPy, Seaborn, Matplotlib, Tableau)
+☁️ Expanding expertise in cloud technologies and CI/CD pipelines
+🚀 Passionate about solving real‑world problems with AI and software engineering
+
+
 🛠️ Tech Stack
+
 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
-Frameworks & Tools
+
+Frontend
 <p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
+Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
+
 Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
+
 AI / ML / DL
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -50,20 +70,28 @@ AI / ML / DL
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
+
 Data Visualization
 <p>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
-DevOps & Other
+
+DevOps & Tools
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
+
+
 📂 Featured Projects
+
 <table>
   <tr>
     <td width="50%">
@@ -106,7 +134,10 @@ DevOps & Other
     </td>
   </tr>
 </table>
+
+
 📊 GitHub Analytics
+
 <div align="center">
 <!-- Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=moallemm&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
@@ -124,7 +155,10 @@ DevOps & Other
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=moallemm&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
+
+
 🌐 Let's Connect
+
 <div align="center">
 <a href="https://www.linkedin.com/in/mohamad-moallem-ds/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
@@ -142,6 +176,8 @@ DevOps & Other
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
 </a>
 </div>
+
+
 <div align="center">
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7EE787,100:58A6FF&height=100&section=footer" />
