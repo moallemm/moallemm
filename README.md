@@ -100,7 +100,7 @@ DevOps & Tools
     <td width="50%">
       <h3 align="center">🚶 Safe Walk AI</h3>
       <div align="center">
-        <a href="https://github.com/moallemm/Safe-Walk-AI" target="_blank"><img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/moallemm/uni_projects/tree/main/safewalk_run%2Breports(FYP)" target="_blank"><img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
         <br><br>
         <p>AI-powered navigation assistant for visually impaired users. Real-time obstacle detection, depth estimation, and text-to-speech guidance.</p>
         <p><strong>YOLOv8 · MobileNetV3 · MiDaS · EasyOCR · PyTorch</strong></p>
@@ -120,7 +120,7 @@ DevOps & Tools
     <td width="50%">
       <h3 align="center">🛠️ DIY Website</h3>
       <div align="center">
-        <a href="https://github.com/moallemm/DIY-Website" target="_blank"><img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/moallemm/uni_projects/tree/main/webproject" target="_blank"><img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
         <br><br>
         <p>Full-stack web application for craft tutorials and material management. Users can browse, create, and share DIY projects.</p>
         <p><strong>Flask · MySQL · Jinja2 · Bootstrap</strong></p>
@@ -129,7 +129,7 @@ DevOps & Tools
     <td width="50%">
       <h3 align="center">✊ Gesture Rock-Paper-Scissors</h3>
       <div align="center">
-        <a href="https://github.com/moallemm/Gesture-Rock-Paper-Scissors" target="_blank"><img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/moallemm/uni_projects/tree/main/python%20project/python%20project" target="_blank"><img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
         <br><br>
         <p>Real-time computer vision game using hand gesture recognition. Play Rock-Paper-Scissors against an AI opponent via webcam.</p>
         <p><strong>OpenCV · MediaPipe · Python</strong></p>
