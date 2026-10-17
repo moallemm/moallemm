@@ -66,6 +66,9 @@ I work across mobile apps, web platforms, backend services, and API integrations
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 [![Roboflow Dataset](https://img.shields.io/badge/Roboflow-View_Dataset-6706CE?style=for-the-badge)](https://app.roboflow.com/mohamadmoallem)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![FiftyOne](https://img.shields.io/badge/FiftyOne-FF6D04?style=for-the-badge&logoColor=white)
 ### Data Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
