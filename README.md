@@ -65,6 +65,7 @@ I work across mobile apps, web platforms, backend services, and API integrations
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logoColor=white)
 
 ### Data Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
@@ -89,8 +90,8 @@ I work across mobile apps, web platforms, backend services, and API integrations
 <td width="50%" valign="top">
 <h3 align="center">SafeWalk AI</h3>
 <p align="center"><a href="https://github.com/moallemm/uni_projects/tree/main/safewalk_run%2Breports(FYP)"><img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View SafeWalk AI" /></a></p>
-<p>Assistive navigation desktop prototype for visually impaired users, combining scene classification, indoor/outdoor object detection, depth estimation, rule-based guidance, and text-to-speech.</p>
-<p><strong>Python · YOLOv8 · MobileNetV3 · MiDaS · PyTorch</strong></p>
+<p>AI-powered assistive navigation desktop prototype for visually impaired users, combining scene classification, YOLOv8 object detection, MiDaS depth estimation, and spoken guidance. Collected and manually annotated 200+ custom outdoor images using Roboflow to enhance object detection training.</p>
+<p><strong>Python · YOLOv8 · MobileNetV3 · MiDaS · PyTorch · Roboflow</strong></p>
 </td>
 <td width="50%" valign="top">
 <h3 align="center">Portfolio Website</h3>
