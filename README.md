@@ -1,185 +1,116 @@
 <div align="center">
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7EE787&height=200&section=header&text=Mohamad%20Moallem&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=55&descSize=18" />
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Turning+Data+Into+Impact;Full-Stack+%2B+AI+%2B+Computer+Vision;Always+Learning%2C+Always+Building" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7EE787&height=200&section=header&text=Mohamad%20Moallem&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Data%20Science%20Graduate&descAlignY=55&descSize=18" alt="Mohamad Moallem header" width="100%" />
 
-<!-- Badges -->
-<a href="https://linkedin.com/in/mohamad-moallem-ds">
-<a href="https://moallemm.github.io/Portfolio/">
-<a href="mailto:mohamadmoallem79@gmail.com">
-<img src="https://komarev.com/ghpvc/?username=moallemm&color=58A6FF&style=flat-square" alt="Profile Views" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Mobile+%26+Web+Applications;Exploring+AI+%26+Computer+Vision;Connecting+Systems+Through+APIs;Always+Learning%2C+Always+Building" alt="Developer interests" />
+
+<p>
+  <a href="https://www.linkedin.com/in/mohamad-moallem-ds/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://moallemm.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:mohamadmoallem79@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=moallemm&color=58A6FF&style=flat-square" alt="Profile views" />
+</p>
+
 </div>
 
+## About Me
 
-👨‍💻 About Me
-"Bridging the gap between raw data and real-world impact."
-I'm a Software Developer and Data Scientist from Lebanon with professional experience in full‑stack development, AI, and machine learning. I build scalable applications, optimize systems, and deliver data‑driven solutions.
+I'm a **Software Developer at SATCON Africa** and a **B.Sc. Data Science graduate** from the University of Sciences and Arts in Lebanon (USAL).
 
-🎓 B.Sc. in Computer Science (Data Science)
+I work across mobile apps, web platforms, backend services, and API integrations. My background in machine learning and computer vision complements my software engineering work, and I enjoy building systems that solve practical problems.
 
-💻 Skilled in modern web technologies (React, Vite, Tailwind, Flask, PostgreSQL, MySQL)
+- **Currently:** Developing Flutter applications, integrating backend APIs, and working on web-to-mobile synchronization and notifications.
+- **Previously:** Software development at Salem Group and WordPress development and content optimization at Upgrade Your Game.
+- **Interested in:** Mobile and backend engineering, AI/ML, computer vision, and open-source collaboration.
+- **Based in:** Lebanon.
 
-🤖 Experienced in computer vision and deep learning (YOLO, MobileNet, MiDaS, EasyOCR, PyTorch, TensorFlow)
+## Tech Stack
 
-📊 Strong background in data analytics and visualization (Pandas, NumPy, Seaborn, Matplotlib, Tableau)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-☁️ Expanding expertise in cloud technologies and CI/CD pipelines
+### Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-🚀 Passionate about solving real‑world problems with AI and software engineering
+### Backend, Cloud & Tools
+![Ktor](https://img.shields.io/badge/Ktor-7F52FF?style=for-the-badge&logo=ktor&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### AI, Machine Learning & Data
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black)
 
-🛠️ Tech Stack
-
-Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-</p>
-
-Backend & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-</p>
-
-Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-AI / ML / DL
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
-</p>
-
-Data Visualization
-<p>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black"/>
-</p>
-
-DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
-
-
-📂 Featured Projects
+## Featured Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🚶 Safe Walk AI</h3>
-      <div align="center">
-        <a href="https://github.com/moallemm/uni_projects/tree/main/safewalk_run%2Breports(FYP)" target="_blank"><img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <br><br>
-        <p>AI-powered navigation assistant for visually impaired users. Real-time obstacle detection, depth estimation, and text-to-speech guidance.</p>
-        <p><strong>YOLOv8 · MobileNetV3 · MiDaS · EasyOCR · PyTorch</strong></p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌐 Portfolio Website</h3>
-      <div align="center">
-        <a href="https://moallemm.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-7EE787?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-        <br><br>
-        <p>Responsive personal portfolio built with modern web stack. Features smooth animations, project showcases, and automated CI/CD deployment.</p>
-        <p><strong>React · Vite · Tailwind CSS · GitHub Actions</strong></p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🛠️ DIY Website</h3>
-      <div align="center">
-        <a href="https://github.com/moallemm/uni_projects/tree/main/webproject" target="_blank"><img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <br><br>
-        <p>Full-stack web application for craft tutorials and material management. Users can browse, create, and share DIY projects.</p>
-        <p><strong>Flask · MySQL · Jinja2 · Bootstrap</strong></p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">✊ Gesture Rock-Paper-Scissors</h3>
-      <div align="center">
-        <a href="https://github.com/moallemm/uni_projects/tree/main/python%20project/python%20project" target="_blank"><img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <br><br>
-        <p>Real-time computer vision game using hand gesture recognition. Play Rock-Paper-Scissors against an AI opponent via webcam.</p>
-        <p><strong>OpenCV · MediaPipe · Python</strong></p>
-      </div>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">SafeWalk AI</h3>
+<p align="center"><a href="https://github.com/moallemm/uni_projects/tree/main/safewalk_run%2Breports(FYP)"><img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View SafeWalk AI" /></a></p>
+<p>Assistive navigation desktop prototype for visually impaired users, combining scene classification, indoor/outdoor object detection, depth estimation, rule-based guidance, and text-to-speech.</p>
+<p><strong>Python · YOLOv8 · MobileNetV3 · MiDaS · PyTorch</strong></p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">Portfolio Website</h3>
+<p align="center"><a href="https://moallemm.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-7EE787?style=for-the-badge&logo=githubpages&logoColor=black" alt="Visit portfolio" /></a></p>
+<p>Personal website showcasing my background, technical skills, and software and data science projects.</p>
+<p><strong>Web Development · Responsive UI</strong></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">DIY Website</h3>
+<p align="center"><a href="https://github.com/moallemm/uni_projects/tree/main/webproject"><img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View DIY Website" /></a></p>
+<p>Web application for exploring and sharing DIY project tutorials and related materials.</p>
+<p><strong>Flask · MySQL · Jinja2 · Bootstrap</strong></p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">Gesture Rock-Paper-Scissors</h3>
+<p align="center"><a href="https://github.com/moallemm/uni_projects/tree/main/python%20project/python%20project"><img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View gesture project" /></a></p>
+<p>Webcam-based rock-paper-scissors game using hand gesture recognition and computer vision.</p>
+<p><strong>Python · OpenCV · MediaPipe</strong></p>
+</td>
+</tr>
 </table>
 
-
-📊 GitHub Analytics
+## GitHub Activity
 
 <div align="center">
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=moallemm&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=moallemm&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
 </div>
 
-
-
-
-🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
-<a href="https://www.linkedin.com/in/mohamad-moallem-ds/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-</a>
-&nbsp;
-<a href="https://moallemm.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
-</a>
-&nbsp;
-<a href="https://github.com/moallemm">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
-</a>
-&nbsp;
-<a href="mailto:mohamadmoallem79@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
-</a>
+<a href="https://www.linkedin.com/in/mohamad-moallem-ds/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://moallemm.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:mohamadmoallem79@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
-
 <div align="center">
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7EE787,100:58A6FF&height=100&section=footer" />
-
-"Code is like humor. When you have to explain it, it's bad." — Cory House
-
-Thanks for stopping by! ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7EE787,100:58A6FF&height=100&section=footer" alt="Footer wave" width="100%" />
 </div>
